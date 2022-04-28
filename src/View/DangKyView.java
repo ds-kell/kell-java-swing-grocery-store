@@ -17,7 +17,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author kell
+ * @author Kell
  */
 public class DangKyView extends javax.swing.JFrame {
     KhachData khachdata = new KhachData();

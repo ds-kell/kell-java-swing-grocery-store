@@ -12,7 +12,7 @@ import java.util.logging.Logger;
 import javax.swing.JOptionPane;
 /**
  *
- * @author kell
+ * @author Kell
  */
 public class ThemSachView extends javax.swing.JFrame {
 

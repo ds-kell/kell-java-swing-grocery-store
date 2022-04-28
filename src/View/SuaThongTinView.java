@@ -7,7 +7,7 @@ package View;
 
 /**
  *
- * @author kell
+ * @author Kell
  */
 public class SuaThongTinView extends javax.swing.JFrame {
 

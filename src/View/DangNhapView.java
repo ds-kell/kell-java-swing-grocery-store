@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package View;
 
 import Data.*;
@@ -11,7 +7,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author kell
+ * @author Kell
  */
 public class DangNhapView extends javax.swing.JFrame {
     KhachData khachdata = new KhachData();

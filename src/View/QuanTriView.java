@@ -20,7 +20,7 @@ import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 /**
  *
- * @author kell
+ * @author Kell
  */
 public class QuanTriView extends javax.swing.JFrame {
     /**

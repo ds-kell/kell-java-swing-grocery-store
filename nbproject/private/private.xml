@@ -2,6 +2,31 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/D:/JavaSW/BookStore/src/Object/TaiKhoanNganHang.java</file>
+            <file>file:/D:/JavaSW/BookStore/src/View/sendMail.java</file>
+            <file>file:/D:/JavaSW/BookStore/src/Object/Khach.java</file>
+            <file>file:/D:/JavaSW/BookStore/src/View/KhachHangView.java</file>
+            <file>file:/D:/JavaSW/BookStore/src/View/ThemKhachView.java</file>
+            <file>file:/D:/JavaSW/BookStore/src/View/SuaKhachView.java</file>
+            <file>file:/D:/JavaSW/BookStore/src/View/taoMKViTien.java</file>
+            <file>file:/D:/JavaSW/BookStore/src/View/SuaSachView.java</file>
+            <file>file:/D:/JavaSW/BookStore/src/Data/TaiKhoanNganHangData.java</file>
+            <file>file:/D:/JavaSW/BookStore/src/View/napTien.java</file>
+            <file>file:/D:/JavaSW/BookStore/src/Data/HoaDonData.java</file>
+            <file>file:/D:/JavaSW/BookStore/src/View/backGround.jpg</file>
+            <file>file:/D:/JavaSW/BookStore/src/View/MuaView.java</file>
+            <file>file:/D:/JavaSW/BookStore/src/Data/SachData.java</file>
+            <file>file:/D:/JavaSW/BookStore/src/Data/KhachData.java</file>
+            <file>file:/D:/JavaSW/BookStore/src/Data/ViTienData.java</file>
+            <file>file:/D:/JavaSW/BookStore/src/View/ThemSachView.java</file>
+            <file>file:/D:/JavaSW/BookStore/src/Object/HoaDon.java</file>
+            <file>file:/D:/JavaSW/BookStore/src/View/QuanTriView.java</file>
+            <file>file:/D:/JavaSW/BookStore/src/Data/Connect.java</file>
+            <file>file:/D:/JavaSW/BookStore/src/View/moKhoaViTien.java</file>
+            <file>file:/D:/JavaSW/BookStore/src/View/SuaThongTinView.java</file>
+            <file>file:/D:/JavaSW/BookStore/src/Object/Sach.java</file>
+            <file>file:/D:/JavaSW/BookStore/src/View/themTaiKhoanNganHang.java</file>
+        </group>
     </open-files>
 </project-private>

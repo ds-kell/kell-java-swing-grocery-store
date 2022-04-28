@@ -9,7 +9,7 @@ import java.util.Date;
 
 /**
  *
- * @author kell
+ * @author Kell
  */
 public class Khach {
     private String tenKhach, gioiTinh, sdt, diaChi, taiKhoan, matKhau, ngaySinh;

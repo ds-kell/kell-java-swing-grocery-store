@@ -18,7 +18,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author kell
+ * @author Kell
  */
 public class MuaView extends javax.swing.JFrame {
     private boolean kq = false;

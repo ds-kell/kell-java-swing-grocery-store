@@ -12,7 +12,7 @@ import java.util.Date;
 
 /**
  *
- * @author kell
+ * @author Kell
  */
 public class HoaDon {
     private String maHD, maTK, tenKH, maSach, tenSach, ngayMua;

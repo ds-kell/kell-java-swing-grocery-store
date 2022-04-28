@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author kell
+ * @author Kell
  */
 public class SuaSachView extends javax.swing.JFrame {
 

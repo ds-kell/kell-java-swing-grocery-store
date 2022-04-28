@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author kell
+ * @author Kell
  */
 public class DoiMatKhauView extends javax.swing.JFrame {
     private Khach khach;

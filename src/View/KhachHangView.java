@@ -18,7 +18,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author kell
+ * @author Kell
  */
 public class KhachHangView extends javax.swing.JFrame implements ActionListener{
     private boolean flag = false;
